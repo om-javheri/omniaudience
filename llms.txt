@@ -6,6 +6,6 @@
 ## Pages
 
 - [OmniAudience | Make Data Your Best Performing Channel](https://om-javheri.github.io/omniaudience/): An omni-channel audience intelligence platform that helps brands discover, activate, and optimise audience segments, plan across every channel, and prove attribution and ROI using behavioural and first-party data.
-- [Capabilities | OmniAudience](https://om-javheri.github.io/omniaudience/capabilities/): An omni-channel audience intelligence platform that helps brands discover, activate, and optimise audience segments, plan across every channel, and prove attribution and ROI using behavioural and first-party data.
-- [Platform | OmniAudience](https://om-javheri.github.io/omniaudience/platform/): An omni-channel audience intelligence platform that helps brands discover, activate, and optimise audience segments, plan across every channel, and prove attribution and ROI using behavioural and first-party data.
-- [Resources | OmniAudience](https://om-javheri.github.io/omniaudience/resources/): An omni-channel audience intelligence platform that helps brands discover, activate, and optimise audience segments, plan across every channel, and prove attribution and ROI using behavioural and first-party data.
+- [Capabilities | OmniAudience](https://om-javheri.github.io/omniaudience/capabilities/): Surface high-value audiences using behavioural signals and lookalike patterns. Seamlessly connect your audience intelligence directly with media strategy…
+- [Platform | OmniAudience](https://om-javheri.github.io/omniaudience/platform/): An omni-channel audience intelligence platform that helps brands discover, activate, and optimise audience segments, plan across every channel, and prove…
+- [Resources | OmniAudience](https://om-javheri.github.io/omniaudience/resources/): Explore our latest research, whitepapers, and guides on advanced audience intelligence and OOH advertising strategies.
